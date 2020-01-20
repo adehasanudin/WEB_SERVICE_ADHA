@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Web Service Adha</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="username">Username</string>
+    <string name="form_login">Form Login</string>
+    <string name="register">Register</string>
+    <string name="form_register">Form Register</string>
+    <string name="register_text">register</string>
+    <string name="login_text">Login</string>
+</resources>
